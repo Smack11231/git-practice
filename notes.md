@@ -24,3 +24,9 @@ Three step commit process:
     git add filename.rb
 * Commit the staged files
     git commmit -m "Descriptive commit message to myself and others"
+
+
+# How `git push` and `git pull` work
+
+* git push - pushes the file updates that were stored in the 'commit' to the online repository
+* git pull - when transfering to a new computer or pulling from a different account, this command will pull the git push updates into your files.
